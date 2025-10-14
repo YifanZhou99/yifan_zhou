@@ -3,7 +3,6 @@ layout: default
 title: "周一帆 (Yifan Zhou)"
 ---
 
-# 周一帆 (Yifan Zhou)
 **Robotics, Systems and Control MSc @ ETH Zürich**  
 *Soft Robotics Lab — Advisor: Prof. Robert Katzschmann*  
 📧 [yifzhou@ethz.ch](mailto:yifzhou@ethz.ch) · 🌐 [GitHub](https://github.com/YifanZhou99) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=PbmSelYAAAAJ) · 🇨🇭 Zürich, Switzerland  
@@ -18,7 +17,7 @@ title: "周一帆 (Yifan Zhou)"
 
 ---
 
-<div class="lang en">
+<div class="lang en" markdown="1">
 
 ## 🧠 About Me
 I am a master’s student in **Robotics, Systems, and Control** at **ETH Zürich**, passionate about robot learning, manipulation, and assistive systems.  
@@ -151,7 +150,7 @@ _Last updated: October 2025_
 
 ---
 
-<div class="lang zh" style="display:none;">
+<div class="lang zh" style="display:none;" markdown="1">
 
 ## 🧠 简介
 我是苏黎世联邦理工学院（ETH Zürich）机器人、系统与控制专业的硕士生，研究方向包括机器人强化学习、灵巧操作与人机协作系统。  
