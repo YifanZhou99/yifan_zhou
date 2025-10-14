@@ -17,10 +17,8 @@ title: "周一帆 (Yifan Zhou)"
 
 ---
 
-<div id="toc">
-  * TOC
-  {:toc}
-</div>
+<nav id="toc" aria-label="Table of contents"></nav>
+
 
 ---
 

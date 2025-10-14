@@ -1,6 +1,6 @@
-title: Minimal theme
+title: 周一帆 (Yifan Zhou)
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: I am a master’s student in **Robotics, Systems, and Control** at **ETH Zürich**, passionate about robot learning, manipulation, and assistive systems. 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
