@@ -15,10 +15,6 @@ title: "周一帆 (Yifan Zhou)"
   <button onclick="switchLang('zh')" id="btn-zh">🇨🇳 中文</button>
 </div>
 
----
-
-<nav id="toc" aria-label="Table of contents"></nav>
-
 
 ---
 
